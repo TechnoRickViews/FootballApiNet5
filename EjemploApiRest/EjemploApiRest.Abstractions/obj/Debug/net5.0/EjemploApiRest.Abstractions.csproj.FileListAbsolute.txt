@@ -1,0 +1,12 @@
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\EjemploApiRest.Abstractions\bin\Debug\net5.0\EjemploApiRest.Abstractions.deps.json
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\EjemploApiRest.Abstractions\bin\Debug\net5.0\EjemploApiRest.Abstractions.dll
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\EjemploApiRest.Abstractions\bin\Debug\net5.0\EjemploApiRest.Abstractions.pdb
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\EjemploApiRest.Abstractions\obj\Debug\net5.0\EjemploApiRest.Abstractions.csproj.AssemblyReference.cache
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\EjemploApiRest.Abstractions\obj\Debug\net5.0\EjemploApiRest.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\EjemploApiRest.Abstractions\obj\Debug\net5.0\EjemploApiRest.Abstractions.AssemblyInfoInputs.cache
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\EjemploApiRest.Abstractions\obj\Debug\net5.0\EjemploApiRest.Abstractions.AssemblyInfo.cs
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\EjemploApiRest.Abstractions\obj\Debug\net5.0\EjemploApiRest.Abstractions.csproj.CoreCompileInputs.cache
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\EjemploApiRest.Abstractions\obj\Debug\net5.0\EjemploApiRest.Abstractions.dll
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\EjemploApiRest.Abstractions\obj\Debug\net5.0\refint\EjemploApiRest.Abstractions.dll
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\EjemploApiRest.Abstractions\obj\Debug\net5.0\EjemploApiRest.Abstractions.pdb
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\EjemploApiRest.Abstractions\obj\Debug\net5.0\ref\EjemploApiRest.Abstractions.dll

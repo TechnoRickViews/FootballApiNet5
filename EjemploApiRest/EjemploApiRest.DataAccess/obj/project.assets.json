@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "EjemploApiRest.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/EjemploApiRest.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EjemploApiRest.Entities.dll": {}
+        }
+      },
+      "EjemploApiRest.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/EjemploApiRest.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EjemploApiRest.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EjemploApiRest.Entities/1.0.0": {
+      "type": "project",
+      "path": "../EjemploApiRest.Entities/EjemploApiRest.Entities.csproj",
+      "msbuildProject": "../EjemploApiRest.Entities/EjemploApiRest.Entities.csproj"
+    },
+    "EjemploApiRest.Services/1.0.0": {
+      "type": "project",
+      "path": "../EjemploApiRest.Services/EjemploApiRest.Services.csproj",
+      "msbuildProject": "../EjemploApiRest.Services/EjemploApiRest.Services.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "EjemploApiRest.Entities >= 1.0.0",
+      "EjemploApiRest.Services >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Frankie\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\TechnoRickViews\\VisualStudio\\FootballApiNet5\\EjemploApiRest\\EjemploApiRest.DataAccess\\EjemploApiRest.DataAccess.csproj",
+      "projectName": "EjemploApiRest.DataAccess",
+      "projectPath": "E:\\TechnoRickViews\\VisualStudio\\FootballApiNet5\\EjemploApiRest\\EjemploApiRest.DataAccess\\EjemploApiRest.DataAccess.csproj",
+      "packagesPath": "C:\\Users\\Frankie\\.nuget\\packages\\",
+      "outputPath": "E:\\TechnoRickViews\\VisualStudio\\FootballApiNet5\\EjemploApiRest\\EjemploApiRest.DataAccess\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Frankie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "E:\\TechnoRickViews\\VisualStudio\\FootballApiNet5\\EjemploApiRest\\EjemploApiRest.Entities\\EjemploApiRest.Entities.csproj": {
+              "projectPath": "E:\\TechnoRickViews\\VisualStudio\\FootballApiNet5\\EjemploApiRest\\EjemploApiRest.Entities\\EjemploApiRest.Entities.csproj"
+            },
+            "E:\\TechnoRickViews\\VisualStudio\\FootballApiNet5\\EjemploApiRest\\EjemploApiRest.Services\\EjemploApiRest.Services.csproj": {
+              "projectPath": "E:\\TechnoRickViews\\VisualStudio\\FootballApiNet5\\EjemploApiRest\\EjemploApiRest.Services\\EjemploApiRest.Services.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
