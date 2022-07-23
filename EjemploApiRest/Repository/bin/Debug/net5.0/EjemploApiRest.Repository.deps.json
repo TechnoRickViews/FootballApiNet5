@@ -7,14 +7,53 @@
   "targets": {
     ".NETCoreApp,Version=v5.0": {
       "EjemploApiRest.Repository/1.0.0": {
+        "dependencies": {
+          "EjemploApiRest.DataAccess": "1.0.0",
+          "EjemploApiRest.Entities": "1.0.0",
+          "EjemploApiRest.Services": "1.0.0"
+        },
         "runtime": {
           "EjemploApiRest.Repository.dll": {}
+        }
+      },
+      "EjemploApiRest.DataAccess/1.0.0": {
+        "dependencies": {
+          "EjemploApiRest.Entities": "1.0.0",
+          "EjemploApiRest.Services": "1.0.0"
+        },
+        "runtime": {
+          "EjemploApiRest.DataAccess.dll": {}
+        }
+      },
+      "EjemploApiRest.Entities/1.0.0": {
+        "runtime": {
+          "EjemploApiRest.Entities.dll": {}
+        }
+      },
+      "EjemploApiRest.Services/1.0.0": {
+        "runtime": {
+          "EjemploApiRest.Services.dll": {}
         }
       }
     }
   },
   "libraries": {
     "EjemploApiRest.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EjemploApiRest.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EjemploApiRest.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EjemploApiRest.Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

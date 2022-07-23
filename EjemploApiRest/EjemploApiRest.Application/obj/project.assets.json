@@ -1,11 +1,86 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "EjemploApiRest.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "EjemploApiRest.Entities": "1.0.0",
+          "EjemploApiRest.Services": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/EjemploApiRest.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EjemploApiRest.DataAccess.dll": {}
+        }
+      },
+      "EjemploApiRest.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/EjemploApiRest.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EjemploApiRest.Entities.dll": {}
+        }
+      },
+      "EjemploApiRest.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "EjemploApiRest.DataAccess": "1.0.0",
+          "EjemploApiRest.Entities": "1.0.0",
+          "EjemploApiRest.Services": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/EjemploApiRest.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EjemploApiRest.Repository.dll": {}
+        }
+      },
+      "EjemploApiRest.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/EjemploApiRest.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EjemploApiRest.Services.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "EjemploApiRest.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../EjemploApiRest.DataAccess/EjemploApiRest.DataAccess.csproj",
+      "msbuildProject": "../EjemploApiRest.DataAccess/EjemploApiRest.DataAccess.csproj"
+    },
+    "EjemploApiRest.Entities/1.0.0": {
+      "type": "project",
+      "path": "../EjemploApiRest.Entities/EjemploApiRest.Entities.csproj",
+      "msbuildProject": "../EjemploApiRest.Entities/EjemploApiRest.Entities.csproj"
+    },
+    "EjemploApiRest.Repository/1.0.0": {
+      "type": "project",
+      "path": "../Repository/EjemploApiRest.Repository.csproj",
+      "msbuildProject": "../Repository/EjemploApiRest.Repository.csproj"
+    },
+    "EjemploApiRest.Services/1.0.0": {
+      "type": "project",
+      "path": "../EjemploApiRest.Services/EjemploApiRest.Services.csproj",
+      "msbuildProject": "../EjemploApiRest.Services/EjemploApiRest.Services.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "EjemploApiRest.Entities >= 1.0.0",
+      "EjemploApiRest.Repository >= 1.0.0",
+      "EjemploApiRest.Services >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Frankie\\.nuget\\packages\\": {}
@@ -33,7 +108,17 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\TechnoRickViews\\VisualStudio\\FootballApiNet5\\EjemploApiRest\\EjemploApiRest.Entities\\EjemploApiRest.Entities.csproj": {
+              "projectPath": "E:\\TechnoRickViews\\VisualStudio\\FootballApiNet5\\EjemploApiRest\\EjemploApiRest.Entities\\EjemploApiRest.Entities.csproj"
+            },
+            "E:\\TechnoRickViews\\VisualStudio\\FootballApiNet5\\EjemploApiRest\\EjemploApiRest.Services\\EjemploApiRest.Services.csproj": {
+              "projectPath": "E:\\TechnoRickViews\\VisualStudio\\FootballApiNet5\\EjemploApiRest\\EjemploApiRest.Services\\EjemploApiRest.Services.csproj"
+            },
+            "E:\\TechnoRickViews\\VisualStudio\\FootballApiNet5\\EjemploApiRest\\Repository\\EjemploApiRest.Repository.csproj": {
+              "projectPath": "E:\\TechnoRickViews\\VisualStudio\\FootballApiNet5\\EjemploApiRest\\Repository\\EjemploApiRest.Repository.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

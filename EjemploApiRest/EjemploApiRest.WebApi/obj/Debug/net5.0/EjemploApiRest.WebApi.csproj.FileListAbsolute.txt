@@ -26,3 +26,13 @@ E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\EjemploApiRest.We
 E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\EjemploApiRest.WebApi\obj\Debug\net5.0\EjemploApiRest.WebApi.pdb
 E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\EjemploApiRest.WebApi\obj\Debug\net5.0\EjemploApiRest.WebApi.genruntimeconfig.cache
 E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\EjemploApiRest.WebApi\obj\Debug\net5.0\ref\EjemploApiRest.WebApi.dll
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\EjemploApiRest.WebApi\bin\Debug\net5.0\EjemploApiRest.Application.dll
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\EjemploApiRest.WebApi\bin\Debug\net5.0\EjemploApiRest.DataAccess.dll
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\EjemploApiRest.WebApi\bin\Debug\net5.0\EjemploApiRest.Entities.dll
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\EjemploApiRest.WebApi\bin\Debug\net5.0\EjemploApiRest.Repository.dll
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\EjemploApiRest.WebApi\bin\Debug\net5.0\EjemploApiRest.Services.dll
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\EjemploApiRest.WebApi\bin\Debug\net5.0\EjemploApiRest.Application.pdb
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\EjemploApiRest.WebApi\bin\Debug\net5.0\EjemploApiRest.Entities.pdb
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\EjemploApiRest.WebApi\bin\Debug\net5.0\EjemploApiRest.Services.pdb
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\EjemploApiRest.WebApi\bin\Debug\net5.0\EjemploApiRest.DataAccess.pdb
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\EjemploApiRest.WebApi\bin\Debug\net5.0\EjemploApiRest.Repository.pdb
