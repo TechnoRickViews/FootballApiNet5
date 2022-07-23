@@ -1,0 +1,12 @@
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\Repository\bin\Debug\net5.0\EjemploApiRest.Repository.deps.json
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\Repository\bin\Debug\net5.0\EjemploApiRest.Repository.dll
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\Repository\bin\Debug\net5.0\EjemploApiRest.Repository.pdb
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\Repository\obj\Debug\net5.0\EjemploApiRest.Repository.csproj.AssemblyReference.cache
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\Repository\obj\Debug\net5.0\EjemploApiRest.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\Repository\obj\Debug\net5.0\EjemploApiRest.Repository.AssemblyInfoInputs.cache
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\Repository\obj\Debug\net5.0\EjemploApiRest.Repository.AssemblyInfo.cs
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\Repository\obj\Debug\net5.0\EjemploApiRest.Repository.csproj.CoreCompileInputs.cache
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\Repository\obj\Debug\net5.0\EjemploApiRest.Repository.dll
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\Repository\obj\Debug\net5.0\refint\EjemploApiRest.Repository.dll
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\Repository\obj\Debug\net5.0\EjemploApiRest.Repository.pdb
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\Repository\obj\Debug\net5.0\ref\EjemploApiRest.Repository.dll

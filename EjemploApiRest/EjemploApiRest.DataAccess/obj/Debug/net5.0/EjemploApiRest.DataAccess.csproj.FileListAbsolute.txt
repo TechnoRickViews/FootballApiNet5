@@ -1,0 +1,12 @@
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\EjemploApiRest.DataAccess\bin\Debug\net5.0\EjemploApiRest.DataAccess.deps.json
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\EjemploApiRest.DataAccess\bin\Debug\net5.0\EjemploApiRest.DataAccess.dll
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\EjemploApiRest.DataAccess\bin\Debug\net5.0\EjemploApiRest.DataAccess.pdb
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\EjemploApiRest.DataAccess\obj\Debug\net5.0\EjemploApiRest.DataAccess.csproj.AssemblyReference.cache
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\EjemploApiRest.DataAccess\obj\Debug\net5.0\EjemploApiRest.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\EjemploApiRest.DataAccess\obj\Debug\net5.0\EjemploApiRest.DataAccess.AssemblyInfoInputs.cache
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\EjemploApiRest.DataAccess\obj\Debug\net5.0\EjemploApiRest.DataAccess.AssemblyInfo.cs
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\EjemploApiRest.DataAccess\obj\Debug\net5.0\EjemploApiRest.DataAccess.csproj.CoreCompileInputs.cache
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\EjemploApiRest.DataAccess\obj\Debug\net5.0\EjemploApiRest.DataAccess.dll
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\EjemploApiRest.DataAccess\obj\Debug\net5.0\refint\EjemploApiRest.DataAccess.dll
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\EjemploApiRest.DataAccess\obj\Debug\net5.0\EjemploApiRest.DataAccess.pdb
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\EjemploApiRest.DataAccess\obj\Debug\net5.0\ref\EjemploApiRest.DataAccess.dll
