@@ -389,8 +389,17 @@
           "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {}
         }
       },
+      "EjemploApiRest.Abstractions/1.0.0": {
+        "runtime": {
+          "EjemploApiRest.Abstractions.dll": {}
+        },
+        "compile": {
+          "EjemploApiRest.Abstractions.dll": {}
+        }
+      },
       "EjemploApiRest.Application/1.0.0": {
         "dependencies": {
+          "EjemploApiRest.Abstractions": "1.0.0",
           "EjemploApiRest.Entities": "1.0.0",
           "EjemploApiRest.Repository": "1.0.0",
           "EjemploApiRest.Services": "1.0.0"
@@ -424,6 +433,7 @@
       },
       "EjemploApiRest.Repository/1.0.0": {
         "dependencies": {
+          "EjemploApiRest.Abstractions": "1.0.0",
           "EjemploApiRest.DataAccess": "1.0.0",
           "EjemploApiRest.Entities": "1.0.0",
           "EjemploApiRest.Services": "1.0.0"
@@ -2197,6 +2207,11 @@
       "sha512": "sha512-BPvcPxQRMsYZ3HnYmGKRWDwX4Wo29WHh14Q6B10BB8Yfbbcza+agOC2UrBFA1EuaZuOsFLbp6E2+mqVNF/Je8A==",
       "path": "swashbuckle.aspnetcore.swaggerui/5.6.3",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+    },
+    "EjemploApiRest.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "EjemploApiRest.Application/1.0.0": {
       "type": "project",

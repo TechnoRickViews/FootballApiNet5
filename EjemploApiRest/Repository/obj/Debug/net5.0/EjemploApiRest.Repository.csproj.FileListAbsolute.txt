@@ -17,3 +17,5 @@ E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\Repository\bin\De
 E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\Repository\bin\Debug\net5.0\EjemploApiRest.Entities.pdb
 E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\Repository\bin\Debug\net5.0\EjemploApiRest.Services.pdb
 E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\Repository\obj\Debug\net5.0\EjemploApiRest.Repository.csproj.CopyComplete
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\Repository\bin\Debug\net5.0\EjemploApiRest.Abstractions.dll
+E:\TechnoRickViews\VisualStudio\FootballApiNet5\EjemploApiRest\Repository\bin\Debug\net5.0\EjemploApiRest.Abstractions.pdb

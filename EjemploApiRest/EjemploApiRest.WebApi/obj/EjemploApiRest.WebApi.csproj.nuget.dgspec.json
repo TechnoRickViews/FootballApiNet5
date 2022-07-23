@@ -4,6 +4,60 @@
     "E:\\TechnoRickViews\\VisualStudio\\FootballApiNet5\\EjemploApiRest\\EjemploApiRest.WebApi\\EjemploApiRest.WebApi.csproj": {}
   },
   "projects": {
+    "E:\\TechnoRickViews\\VisualStudio\\FootballApiNet5\\EjemploApiRest\\EjemploApiRest.Abstractions\\EjemploApiRest.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\TechnoRickViews\\VisualStudio\\FootballApiNet5\\EjemploApiRest\\EjemploApiRest.Abstractions\\EjemploApiRest.Abstractions.csproj",
+        "projectName": "EjemploApiRest.Abstractions",
+        "projectPath": "E:\\TechnoRickViews\\VisualStudio\\FootballApiNet5\\EjemploApiRest\\EjemploApiRest.Abstractions\\EjemploApiRest.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\Frankie\\.nuget\\packages\\",
+        "outputPath": "E:\\TechnoRickViews\\VisualStudio\\FootballApiNet5\\EjemploApiRest\\EjemploApiRest.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Frankie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "E:\\TechnoRickViews\\VisualStudio\\FootballApiNet5\\EjemploApiRest\\EjemploApiRest.Application\\EjemploApiRest.Application.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -28,6 +82,9 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+              "E:\\TechnoRickViews\\VisualStudio\\FootballApiNet5\\EjemploApiRest\\EjemploApiRest.Abstractions\\EjemploApiRest.Abstractions.csproj": {
+                "projectPath": "E:\\TechnoRickViews\\VisualStudio\\FootballApiNet5\\EjemploApiRest\\EjemploApiRest.Abstractions\\EjemploApiRest.Abstractions.csproj"
+              },
               "E:\\TechnoRickViews\\VisualStudio\\FootballApiNet5\\EjemploApiRest\\EjemploApiRest.Entities\\EjemploApiRest.Entities.csproj": {
                 "projectPath": "E:\\TechnoRickViews\\VisualStudio\\FootballApiNet5\\EjemploApiRest\\EjemploApiRest.Entities\\EjemploApiRest.Entities.csproj"
               },
@@ -338,6 +395,9 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+              "E:\\TechnoRickViews\\VisualStudio\\FootballApiNet5\\EjemploApiRest\\EjemploApiRest.Abstractions\\EjemploApiRest.Abstractions.csproj": {
+                "projectPath": "E:\\TechnoRickViews\\VisualStudio\\FootballApiNet5\\EjemploApiRest\\EjemploApiRest.Abstractions\\EjemploApiRest.Abstractions.csproj"
+              },
               "E:\\TechnoRickViews\\VisualStudio\\FootballApiNet5\\EjemploApiRest\\EjemploApiRest.DataAccess\\EjemploApiRest.DataAccess.csproj": {
                 "projectPath": "E:\\TechnoRickViews\\VisualStudio\\FootballApiNet5\\EjemploApiRest\\EjemploApiRest.DataAccess\\EjemploApiRest.DataAccess.csproj"
               },
