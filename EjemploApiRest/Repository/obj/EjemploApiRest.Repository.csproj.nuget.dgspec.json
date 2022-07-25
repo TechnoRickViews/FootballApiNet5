@@ -82,6 +82,9 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+              "E:\\TechnoRickViews\\VisualStudio\\FootballApiNet5\\EjemploApiRest\\EjemploApiRest.Abstractions\\EjemploApiRest.Abstractions.csproj": {
+                "projectPath": "E:\\TechnoRickViews\\VisualStudio\\FootballApiNet5\\EjemploApiRest\\EjemploApiRest.Abstractions\\EjemploApiRest.Abstractions.csproj"
+              },
               "E:\\TechnoRickViews\\VisualStudio\\FootballApiNet5\\EjemploApiRest\\EjemploApiRest.Entities\\EjemploApiRest.Entities.csproj": {
                 "projectPath": "E:\\TechnoRickViews\\VisualStudio\\FootballApiNet5\\EjemploApiRest\\EjemploApiRest.Entities\\EjemploApiRest.Entities.csproj"
               },

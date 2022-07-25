@@ -8,11 +8,17 @@
     ".NETCoreApp,Version=v5.0": {
       "EjemploApiRest.DataAccess/1.0.0": {
         "dependencies": {
+          "EjemploApiRest.Abstractions": "1.0.0",
           "EjemploApiRest.Entities": "1.0.0",
           "EjemploApiRest.Services": "1.0.0"
         },
         "runtime": {
           "EjemploApiRest.DataAccess.dll": {}
+        }
+      },
+      "EjemploApiRest.Abstractions/1.0.0": {
+        "runtime": {
+          "EjemploApiRest.Abstractions.dll": {}
         }
       },
       "EjemploApiRest.Entities/1.0.0": {
@@ -29,6 +35,11 @@
   },
   "libraries": {
     "EjemploApiRest.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EjemploApiRest.Abstractions/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
