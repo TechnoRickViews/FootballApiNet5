@@ -413,6 +413,7 @@
       },
       "EjemploApiRest.DataAccess/1.0.0": {
         "dependencies": {
+          "EjemploApiRest.Abstractions": "1.0.0",
           "EjemploApiRest.Entities": "1.0.0",
           "EjemploApiRest.Services": "1.0.0"
         },
